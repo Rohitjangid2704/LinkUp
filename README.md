@@ -1,4 +1,4 @@
-```markdown
+
 # Chat Application
 
 This is a real-time chat application built with the MERN stack, Socket.io for real-time messaging, and JWT authentication for secure user access.
@@ -31,7 +31,6 @@ To get a local copy up and running, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/chat-app.git
-   ```
    
 2. **Install dependencies:**
    ```bash
